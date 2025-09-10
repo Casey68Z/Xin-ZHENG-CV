@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://casey68z.github.io/Xin-ZHENG-CV/sitemap.xml
